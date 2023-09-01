@@ -6,9 +6,9 @@
 
  It is written in :
 
-*   _HTML_
-*   _CSS_
-*   _JS_
+*   HTML
+*   CSS
+*   JS
                                 
 - - - -
 1. **Search word and get not only the  meaning of the word but also learn about its phonetic.**
